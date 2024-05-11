@@ -4,6 +4,7 @@ import Logo from "./Logo"
 import Container from "./Container/Container"
 import LogoutBtn from "./header/LogoutBtn"
 import Button from "./Button"
+import Input from "./Input"
 
 export {
    Navbar,
@@ -12,5 +13,7 @@ export {
    Container,
    LogoutBtn,
    Button,
+   Input,
+   
    
 }

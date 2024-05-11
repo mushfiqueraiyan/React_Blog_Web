@@ -58,7 +58,7 @@ function Navbar() {
               ))}
 
               {authStatus && (
-                <li>
+                <li className='bg-red-600 text-white '>
                   <LogoutBtn/>
                 </li>
               )}
