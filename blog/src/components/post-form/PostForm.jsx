@@ -1,7 +1,7 @@
 import React, {useCallback} from 'react'
 import { useForm } from 'react-hook-form'
 
-function PostForm() {
+function PostForm() { 
   return (
     <div>
       
